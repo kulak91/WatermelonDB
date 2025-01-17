@@ -6,9 +6,9 @@ import com.facebook.react.ReactHost
 import com.facebook.react.ReactNativeHost
 import com.facebook.react.ReactPackage
 import com.facebook.react.bridge.JSIModule
-import com.facebook.react.bridge.JSIModulePackage
-import com.facebook.react.bridge.JSIModuleSpec
-import com.facebook.react.defaults.DefaultNewArchitectureEntryPoint.load
+// import com.facebook.react.bridge.JSIModulePackage
+// import com.facebook.react.bridge.JSIModuleSpec
+// import com.facebook.react.defaults.DefaultNewArchitectureEntryPoint.load
 import com.facebook.react.defaults.DefaultReactHost.getDefaultReactHost
 import com.facebook.react.defaults.DefaultReactNativeHost
 import com.facebook.react.shell.MainReactPackage
