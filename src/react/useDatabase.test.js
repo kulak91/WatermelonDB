@@ -1,12 +1,12 @@
 import React from 'react'
 import * as TestRenderer from 'react-test-renderer'
-import { renderHook } from '@testing-library/react-native'
+import { renderHook } from '@testing-library/react-hooks'
 import useDatabase from './useDatabase'
 import DatabaseProvider from './DatabaseProvider'
 import Database from '../Database'
 import { mockDatabase } from '../__tests__/testModels'
 
-// Note: this uses two testing libraries; react-test-renderer and @testing-library/react-native.
+// Note: this uses two testing libraries; react-test-renderer and @testing-library/react-hooks.
 // This is probably overkill for such a simple hook but I will leave these here in case more
 // hooks are added in the future.
 

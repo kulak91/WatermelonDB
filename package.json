@@ -117,7 +117,7 @@
     "@react-native/eslint-config": "0.74.88",
     "@react-native/metro-config": "0.74.88",
     "@react-native/typescript-config": "0.74.88",
-    "@testing-library/react-native": "^13.0.1",
+    "@testing-library/react-hooks": "^8.0.1",
     "@types/hoist-non-react-statics": "^3.3.5",
     "@types/react": "^16.8.6",
     "@typescript-eslint/eslint-plugin": "^5.53.0",
